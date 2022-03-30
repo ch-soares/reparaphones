@@ -309,11 +309,10 @@ body {
 }
 
 .mapa {
-	width: 100%;
+	width: 700px;
 	height: 100%;
-	object-fit: cover;	
-	margin-top: 100px;
-	margin-left: 100px;
+	object-fit: cover;
+	margin: auto;	
 }
 
 .rodape-secao2 p {
@@ -325,8 +324,9 @@ body {
 	width: 100%;	
 }
 
-.foto-loja img {
-	height: 345px;
+.foto-loja {
+	height: 350px;
 	width: 400px;
 	object-fit: cover;
+	margin-top: auto;
 }
